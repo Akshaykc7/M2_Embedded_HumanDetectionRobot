@@ -9,7 +9,7 @@
 |HL03|Motion|Display whether the motion is detected or not|
 
 
-# Low level test plan
+**Low level test plan**
 
 |TESTID| DESCRIPTION| EXPECTED I\P|
 |:-----|:-----------|:------------|
