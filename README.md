@@ -1,5 +1,14 @@
 # M2_application-lab_HumanDetectionRobot
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/d9c82f5271ab4aecbe330850f8903cf6)](https://www.codacy.com/gh/Akshaykc7/M2_Embedded_HumanDetectionRobot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Akshaykc7/M2_Embedded_HumanDetectionRobot&amp;utm_campaign=Badge_Grade)
+
+# METHODOLOGY
+- The rescue operation by the workers in the earthquake affected areas is very difficult because it involves large area and hence it is time consuming.
+- Vehicle that moves in the earthquake  affected area.
+- As a whole the robot’s movement is controlled with the PC or phone. 
+- Gas sensor senses the toxic gas present near the victim and it will be compared with the already set reference temperature. 
+- Gas detection and fire detection
+- Message send to the respective person and department.
+
 # FOLDER STRUCTURE
 |FOLDER|DESCRIPTION|
 |:-----|:----------|
@@ -11,13 +20,6 @@
 |6 ImagesandVideos|All the images and program execution video|
 |7_Other|other information|
 
-# METHODOLOGY
-- The rescue operation by the workers in the earthquake affected areas is very difficult because it involves large area and hence it is time consuming.
-- Vehicle that moves in the earthquake  affected area.
-- As a whole the robot’s movement is controlled with the PC or phone. 
-- Gas sensor senses the toxic gas present near the victim and it will be compared with the already set reference temperature. 
-- Gas detection and fire detection
-- Message send to the respective person and department.
 
 
 # REFERNCES
